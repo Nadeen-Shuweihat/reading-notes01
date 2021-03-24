@@ -91,7 +91,7 @@ And you can try creating many more things that are related to the forms such as 
 
 
 # Chapter 8 
-## Extra MArkuo hints 
+## Extra Markup hints 
 
  there are 3 versions of HTML :
 
