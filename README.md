@@ -6,6 +6,6 @@ My Name is *Nadeen Shuweihat*, an interior designer. 22 years old currently i am
 
 | Assigment        | link                  |
 | -----------------| --------------------  |
-| read01           | [class 1](read01.md)  |
-| read02           | [class 2](read02.md)  | 
+| read01           | [class 1](/mnt/c/Users/Nadeen/ASAC/reading-notes01/read01.md)  |
+| read02           | [class 2](/mnt/c/Users/Nadeen/ASAC/reading-notes01/read02.md)  | 
 
