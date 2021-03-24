@@ -43,7 +43,7 @@
 
 
 # Chapter 7 
-## Forms 
+## Forms ( summrize it by mistake)
 
 * to collect information from visitors 
 
@@ -87,4 +87,22 @@
  your comments...</textarea>
 </form>
 
-And you can try creating many more things that are related to the forms such as checkbox, drop down list box, multiple select box, file input box, submit button , email , search box ...etc  
+And you can try creating many more things that are related to the forms such as checkbox, drop down list box, multiple select box, file input box, submit button , email , search box ...etc 
+
+
+# Chapter 8 
+## Extra MArkuo hints 
+
+ there are 3 versions of HTML :
+   1- HTML 4 
+   2-XHTML 1.0 
+   3-HTML5  ( the one we are using )
+
+- some of the hints that you will find in the chapter :
+   +  <!-- comment goes here --> (to add a hidden comment in the code)
+   + <iframe> (put a frame to a pic)
+   + <meta> (supply all kinds of information about your web page)
+   + <div>
+   
+   
+   
