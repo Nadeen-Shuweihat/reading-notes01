@@ -25,18 +25,18 @@
  - === strict to (compare data type and value)
  - !=== not strict to 
 
- ## 5-IF else statement
+## 5-IF else statement
  
  * allows you to provide 2 sets of code 
 
- ## 6-Switch statement
+## 6-Switch statement
 
  * starts with switch value 
  * faster than the if else
  * entire statement lives in one code block 
  * each case ends with break (tells javascript to skip the rest of the code block)
 
- ## 7-logical operator 
+## 7-logical operator 
  (symbol that is used when you want to compare 2 or more values)
 
  * && and 
