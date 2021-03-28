@@ -48,3 +48,10 @@
 * ! not 
 (not true = false , not false = true ) for one condition 
                
+### - loops (sets of instuctions to repeat a block of code until a specific condition is met)
+we have 2 types of loops: 
+
+  * 1- while loop 
+----> while(condition){code}
+  * 2- for loop
+----> for(intialize;condition;update){code}
