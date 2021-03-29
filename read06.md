@@ -1,6 +1,6 @@
 # Colors in CSS
 
-![colours in css]https://cdn.educba.com/academy/wp-content/uploads/2020/03/CSS-Color-Codes.jpg()
+![colours in css](https://cdn.educba.com/academy/wp-content/uploads/2020/03/CSS-Color-Codes.jpg)
 
 * there are 3 ways to specify colors in css:
     - color name
