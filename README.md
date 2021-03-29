@@ -11,4 +11,5 @@ My Name is *Nadeen Shuweihat*, an interior designer. 22 years old currently i am
 | read03           | [class 3](read03.md)  |
 | read04           | [class 4](read04.md)  |
 | read05           | [class 5](read05.md)  |
+| read06           | [class 6](read06.md)  |
 
