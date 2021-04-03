@@ -23,5 +23,3 @@
 | read-14          | [class 14](level-201/read-14.md)  |
 | read-15          | [class 15](level-201/read-15.md)  |
 
-
-- [Home page](https://nadeen-shuweihat.github.io/reading-notes01/)

@@ -15,4 +15,3 @@
 | read06           | [class 6](level-102/read06.md)  |
 
 
-- [Home page](https://nadeen-shuweihat.github.io/reading-notes01/) 
