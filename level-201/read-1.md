@@ -15,7 +15,7 @@
 
 - simple html structure page :
 
-     ![html structure](https://lh3.googleusercontent.com/proxy/v8eHNobanqX8BOkO8MY9vSbENFoxpNy2xzAKsTqF0Fp1UdbCx1DeAEPiRaRMRvc_ChhXFZ6c6VKqisOVc3DWhzS74vv2TnSuQxugscuJfi2BhCyGStM)
+     ![html structure](https://lh3.googleusercontent.com/proxy/8KYan3wFlGd6eK7j_2IwP2WfcXdORKmKueFNWAmg_TVGQy7pUDeTR56ixrSRG__EvIKWKNTcXzRL1rAvvA0uv5ovnPSe-FA-A9y2SH3kC4tq8ydelHk)
 
 ## Forms
 (to collect information from visitors )
