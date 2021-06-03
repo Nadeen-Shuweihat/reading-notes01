@@ -1,13 +1,16 @@
 # reading-notes01
 
-A simple intro about me 
+A simple intro 
 
-My Name is *Nadeen Shuweihat*, an interior designer. 22 years old currently i am trying to figure out how to do the labs :) Down there you will find the reading notes for level 102 and level 201
+My Name is *Nadeen Shuweihat*, an interior designer. 22 years old and currently i am trying to figure out how to do the labs :) Down here you will find the reading notes for level 102 , level 201 and level 301 which include a small summary for every topic in these 3 levels
 
 ![funnyreading](https://i.gifer.com/RN0Y.gif)
 
 
 
-* [level102](level-102/level102.md)
+* [Code 102 - Intro to Software Development](level-102/level102.md)
 
-* [level201](level-201/level201.md)
+* [Code 201 - Foundations of Software Development](level-201/level201.md)
+
+* [Code 301 - Intermediate Software Development](level-301/level301.md)
+
