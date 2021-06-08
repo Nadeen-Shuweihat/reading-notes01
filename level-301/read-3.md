@@ -34,14 +34,17 @@
 * Give an example of using the spread operator to combine two arrays.
 
      let array1 = [' N','a','d'];
+
      let array2 = [' e','e','n'];
 
      let array3 = [...array1, ...array2];
+
      console.log(array3); // result: Nadeen
 
 * Give an example of using the spread operator to add a new item to an array.
 
      let array1 = [' N','a',,'d'];
+
      let array2 = [...array1, ' e','e','n'];
 
      console.log(array2); // result: Nadeen
@@ -49,10 +52,15 @@
 * Give an example of using the spread operator to combine two objects into one.
 
      const objectOne = {hello: "🤪"}
+
      const objectTwo = {world: "🐻"}
+
      const objectThree = {...objectOne, ...objectTwo, laugh: "😂"}
+
      console.log(objectThree) // Object { hello: "🤪", world: "🐻", laugh: "😂" }
+
      const objectFour = {...objectOne, ...objectTwo, laugh: () => {console.log("😂".repeat(5))}}
+     
      objectFour.laugh() // 😂😂😂😂😂
 
 
