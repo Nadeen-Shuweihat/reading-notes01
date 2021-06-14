@@ -8,7 +8,7 @@
 
 * What is an identifer of a resource? Give an example.
 
-    > URI / HTTP
+    > URI that identifies the resource /  https://adventure-works.com/orders/1
 
 * What are the most common HTTP verbs?
 
